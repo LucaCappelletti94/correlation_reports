@@ -26,6 +26,8 @@ Some tools we are surely gonna use in this project
 - `minepy - Maximal Information-based Nonparametric Exploration <https://github.com/minepy/minepy>`__
 - `Distance correlation and related E-statistics in Python <https://github.com/vnmabus/dcor>`__
 - `Finding correlations in non-linear data <https://www.freecodecamp.org/news/how-machines-make-predictions-finding-correlations-in-complex-data-dfd9f0d87889/>`__
+- `Survery on methods to test for independence <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5658146/>`
+- `Mutual Information based independence test <https://arxiv.org/pdf/1711.06642.pdf>` well written paper, in the intro it cites a lot of possible tests we could use.
 
 .. |travis| image:: https://travis-ci.org/LucaCappelletti94/correlation_reports.png
    :target: https://travis-ci.org/LucaCappelletti94/correlation_reports
