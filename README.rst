@@ -20,7 +20,12 @@ get slightly different results, here's three of them:
 
 |coveralls| |sonar_coverage| |code_climate_coverage|
 
-Automatic generation of correlation reports.
+Some tools we are surely gonna use in this project
+-----------------------------------------------------------
+
+- `minepy - Maximal Information-based Nonparametric Exploration <https://github.com/minepy/minepy>`__
+- `Distance correlation and related E-statistics in Python <https://github.com/vnmabus/dcor>`__
+- `Finding correlations in non-linear data <https://www.freecodecamp.org/news/how-machines-make-predictions-finding-correlations-in-complex-data-dfd9f0d87889/>`__
 
 .. |travis| image:: https://travis-ci.org/LucaCappelletti94/correlation_reports.png
    :target: https://travis-ci.org/LucaCappelletti94/correlation_reports
